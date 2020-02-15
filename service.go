@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 
-	"example.grpc.go.api/cat"
+	"github.com/wakuwaku3/example.grpc.go.api/cat"
 )
 
 // MyCatService です

@@ -1,9 +1,8 @@
-module example.grpc.go.api
+module github.com/wakuwaku3/example.grpc.go.api
 
 go 1.13
 
 require (
 	github.com/golang/protobuf v1.3.3
-	github.com/wakuwaku3/example.grpc.proto v0.0.0-20200213234048-9ec96a447f48 // indirect
 	google.golang.org/grpc v1.27.1
 )

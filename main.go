@@ -5,7 +5,7 @@ import (
 	"net"
 	"net/http"
 
-	"example.grpc.go.api/cat"
+	"github.com/wakuwaku3/example.grpc.go.api/cat"
 	"google.golang.org/grpc"
 )
 
